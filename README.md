@@ -15,14 +15,6 @@ This repository contains a simple and interactive "Stone Paper Scissor" game bui
 - **Score Tracking**: The game keeps track of the player's and computer's scores.
 - **Reset Functionality**: Option to reset the game and scores at any time.
 
-## Demo
-
-[Include a link to a live demo of the game if available]
-
-## Screenshots
-
-[Include screenshots of the game interface]
-
 ## Installation
 
 To run this game locally on your machine, follow these steps:
